@@ -39,7 +39,6 @@ export const FleetManagementDashboard = () => {
             <h2 style={{ fontSize: '20px' }}>Current Trip Status</h2>
             <button 
               onClick={() => {
-                // Handle start trip
                 console.log('Starting trip...');
               }}
               style={{
